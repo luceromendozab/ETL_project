@@ -1,4 +1,4 @@
-,name,endangerment,latitude,longitude
+,language,endangerment,latitude,longitude
 156,Navajo,Vulnerable,35.8044,-108.475
 359,Sioux,Vulnerable,43.0588,-102.5244
 443,O'odham (Akimel),Definitely endangered,33.059,-112.0479
@@ -25,7 +25,6 @@
 936,Seward Peninsula Inupiaq (King Island),Critically endangered,64.9728,-168.0616
 937,Seward Peninsula Inupiaq (Little Diomede Island),Critically endangered,65.755,-168.9167
 938,Seward Peninsula Inupiaq (Norton Sound),Critically endangered,64.5433,-163.029
-989,Ottawa (Walpole Island),Severely endangered,42.6068,-82.5195
 995,Shoshoni (Idaho),Severely endangered,43.0438,-112.4629
 996,Shoshoni (Nevada),Severely endangered,40.0358,-113.9835
 997,Shoshoni (Wyoming),Severely endangered,43.014,-108.8209
@@ -42,7 +41,6 @@
 1156,Cherokee (North Carolina),Severely endangered,35.113,-84.0588
 1172,Hawaiian,Critically endangered,21.9226,-160.1147
 1175,Hualapai,Vulnerable,35.5279,-113.4297
-1258,Ottawa (Canada),Severely endangered,46.1519,-82.2243
 1268,Taos,Definitely endangered,36.4717,-105.5596
 1313,Chickasaw,Severely endangered,34.6,-96.8161
 1363,Yaqui (United States of America),Definitely endangered,32.1158,-111.0638
@@ -50,7 +48,6 @@
 1392,Maliseet-Passamaquoddy,Severely endangered,44.9572,-67.0496
 1393,Mikasuki,Vulnerable,26.3202,-80.9877
 1413,"Ute (Colorado, Ute Mountain)",Severely endangered,37.2105,-108.7223
-1421,Malecite,Definitely endangered,46.8023,-67.6686
 1426,Ottawa (Michigan),Critically endangered,43.5971,-84.7752
 1431,Koasati (Louisiana),Definitely endangered,30.4855,-92.8494
 1432,Koasati (Texas),Definitely endangered,30.7155,-94.6965
@@ -60,8 +57,6 @@
 1469,Kickapoo (Texas),Severely endangered,28.6147,-100.4386
 1470,Kiowa,Severely endangered,35.1016,-98.6197
 1474,Northern Paiute (Nevada),Definitely endangered,41.9979,-117.7193
-1489,Halkomelem,Severely endangered,48.7715,-123.6678
-1520,Kwak'wala,Critically endangered,50.7338,-127.4982
 1536,Jicarilla Apache,Severely endangered,36.9336,-106.9984
 1547,Northern Paiute (Oregon),Critically endangered,43.5883,-119.0595
 1555,Tlingit (United States of America),Critically endangered,58.334,-133.7475
@@ -74,7 +69,6 @@
 1635,Hidatsa,Definitely endangered,47.7321,-102.6758
 1655,Pacific Gulf Yupik,Severely endangered,58.1938,-155.6542
 1658,Sauk-Fox,Critically endangered,41.9637,-92.5768
-1674,Straits Salish,Severely endangered,48.4457,-123.4205
 1691,Aleut (Eastern),Critically endangered,54.7212,-164.4433
 1692,Aleut (Western),Severely endangered,52.2304,-174.1978
 1695,Assiniboine (United States of America),Critically endangered,48.4466,-114.8783
@@ -82,8 +76,6 @@
 1704,Koyukon,Critically endangered,66.3375,-151.1608
 1709,Quechan,Definitely endangered,32.7279,-114.7255
 1714,Yavapai,Severely endangered,34.5638,-112.4453
-1729,Kutenai,Severely endangered,49.6467,-115.7372
-1731,Okanagan,Definitely endangered,50.3059,-119.3228
 1761,Comanche,Severely endangered,34.6086,-98.3904
 1775,Maricopa,Severely endangered,33.3772,-112.1676
 1776,Mohave (Arizona),Severely endangered,34.0231,-114.5045
@@ -219,9 +211,6 @@
 2629,Mohawk (Ganienkeh),Definitely endangered,44.8675,-73.67
 2631,Mohawk (Kanatsiohareke),Definitely endangered,42.9116,-74.5587
 2639,Munsee (United States of America),Critically endangered,40.8969,-76.3769
-2647,Northern Haida,Critically endangered,54.0397,-132.1776
-2651,Oneida (Canada),Critically endangered,42.8286,-81.4068
-2652,Onondaga (Canada),Critically endangered,43.1194,-80.1174
 2663,Quinault,Extinct,47.3332,-124.2864
 2681,Southern Paiute,Severely endangered,37.6818,-113.088
 2706,Unami,Extinct,39.13,-76.0253
