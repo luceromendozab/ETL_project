@@ -12,10 +12,6 @@ def obtener_estado(row):
         state = None
     return state
 
-def exploration_df (df):
-    df.shape
-    df.info()
-    df.describe().T
-    df.columns
-    df.duplicated().sum()
-    df.isnull().sum()
+
+    
+
