@@ -20,13 +20,8 @@ Webscraping:https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by
 
 ## Libraries 
 
-- <br> Pandas </br> :pandas library for data manipulation and analysis;it offers data structures and operations for manipulating numerical tables and time series. 
-https://pandas.pydata.org/ 
-
-- Requests: allows you to send HTTP requests using Python.
-The HTTP request returns a Response Object with all the response data.
-https://pypi.org/project/requests/ 
-
+- Pandas 
+- Requests: 
 - Sys: 
 - Regex: 
 - BeautifulSoup:
