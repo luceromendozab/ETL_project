@@ -2,15 +2,14 @@
 
 ![imagen](https://github.com/luceromendozab/ETL_project/blob/main/images%20/image1.jpeg)
 
-<div class="text-center">
-   ![image](https://github.com/luceromendozab/ETL_project/blob/main/images%20/image1.jpeg)
-</div>
+![imagen](https://github.com/luceromendozab/ETL_project/blob/main/images%20/image2.jpeg))
+
 
 ¿Son las lenguas en peligro de extinción importantes?. ¿Sabemos aproximadamente cuántas existen o cuales son?
 
 Estas preguntas me surgieron antes de realizar este proyecto ; todo empezó con un csv que 
 
-#Libraries 
+## Libraries 
 
 - Pandas: 
 - Requests: 
