@@ -9,7 +9,7 @@ Estas preguntas me surgieron antes de realizar este primer proyecto hacia mi cam
 
 Analizando y limpiando  el primer csv que obtuve , descubrí que el país que más lenguas en peligro de extinción tenia era Estados Unidos asi que me decanté por analizar las lenguas en peligro de extinción por estados y ver la relación que tuvieran con la población de cada estado a lo largo de los últimos 50 años.
 
-Las lenguas son las que definen nuestro como de ver la vida, 
+
 ## Data
 
 Los datos obtenidos son a travez de la descarga de un csv de Kaggle y de el webscraping 
